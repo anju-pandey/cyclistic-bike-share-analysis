@@ -80,33 +80,34 @@ The above chart does not show any trend or pattern which indicates preference to
 •	99.95% trip ends in a day.<br>
 •	0.05% of trips are between 2 to 123 days.
 
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1de7ba51-a1fb-4404-8b76-72d47e341a7e)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/6_trip_ending_in_a_day.png)
 
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/83c035b4-bb47-4863-810e-2aae4b910fc1)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/7_trip_ending_in_a_day_chart.png)
 
 
 Further we analyzed data for trip durations which end within a day – for both the user types.
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/8070a00d-9ea4-4150-9759-c9e4a624798e)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/9cbda0d9-cb80-49ac-903e-bfc71acb466d)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/745f9fb1-88c3-49cd-9e4d-ca7f36e4cddd)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/8_trip_duration_within_day_annual.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/9_trip_duration_within_day_casual.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/10_within_day_chart.png)
 
 - 99.60% of the total numbers of annual members travelling in a day, are using bike service only for less than an hour and only 0.04% are using services for more than an hour. <br>
 - 83.60% of total numbers of casual riders travelling in a day, are using bike service only for less than an hour and 16.40% are using services for more than an hour.<br>
 - Trip duration, which is not more than an hour, a ratio of casual riders to annual members is approx. 1 : 3.979 however it changes as trip duration goes beyond an hour. Then, casual riders are having more share than annual members. for example- for trip duration, which is more than an hour but less than two hours, ratio changes to 21.928 : 1 <br>
 
 More analysis was done to check data distribution from a day to months.
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1e1026f2-9b96-4cd7-869a-63df5d145c90)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1d235df1-21b2-4559-8b4f-d68c98516c9a)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/6cf74775-6e63-4128-b2bf-2c2337caac20)
 
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/12_day_to_month_table.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/11_within_day_chart.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/13_day_to_month_chart.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/14_day_to_month_chart.png)
 - Plots are depicting a downward trend for annual members as trip duration increases.<br>
 - Plots are depicting an upward trend for casual members as trip duration increases.
 
 ##### Weekday:
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/21057ae0-e62d-41dd-91ad-031421510042)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d2357b74-df21-4b3d-8be3-0f92d7bbe69d)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d5107d69-8936-412f-ad3f-07e1a04aa095)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/876cd51e-59c3-4e0e-b195-b92800cdba8a)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/15_weekday_table.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/16_weekday_chart.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/17_weekday_chart.png)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/18_weekday_chart.png)
 
 - Less annual members on Saturday and Sunday compared to Monday to Friday <br>
 - More casual riders on Saturday and Sunday compared to Monday to Friday

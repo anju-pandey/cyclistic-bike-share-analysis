@@ -132,9 +132,7 @@ Currently, Cyclistic offers single-ride passes, full-day passes, and annual memb
 - Monthly, quarterly, and bi-annual membership plans should be offered to provide flexibility to users.
 
 ----------------------------------------------------------------------------------------------------------------------------
-<b>Tools used for analysis:</b> SQL (Google BigQuery) & Analysis
-
-<b>Visualization:</b> Microsoft Excel
+<b>Tools used for analysis and visualization:</b> SQL (Google BigQuery) & Microsoft Excel
 
 <a href='https://docs.google.com/presentation/d/e/2PACX-1vT3N9cvcGDGbgJR5Rqj-4tpSH6CAPbQicG04VS6Ye_0nEAWVL3R_UQ6U2A6iwOwGuKdgO8ICB_dMhz9/pub?start=false&loop=false&delayms=3000'>Download Presentation for stakeholders.</a>
 

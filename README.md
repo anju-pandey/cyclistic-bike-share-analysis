@@ -60,7 +60,7 @@ We are going to **perform our analysis using the attributes below** to check how
 
 <b>Weekday:</b> is the day of week of journey differentiating the users?
 
-##### Age
+##### Age:
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/39c973f9-04a7-44ff-939c-51ea976f3640)
 
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/adf6df7f-fedb-44e4-90bb-984632cf02ad)

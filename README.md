@@ -69,111 +69,75 @@ The above chart does not show any trend or pattern which indicates preference to
 ###### ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
 
 ##### Gender:
-Gender	All Users(Casual+Members) (%)	Casual Riders(%)	Annual Members(%)
-Male	62.88	8.86	91.14
-Female	22.47	15.32	84.68
-** Null	14.65	95.93	4.07
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/dbf0f2b9-07de-472b-a517-5cfce5e94b4a)
 
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/19ed5250-16ce-4f59-b186-e276fe14dbac)
 
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to gender.
-** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
+###### there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
 
-Trip Duration:
-•	Data contains trip durations ranging from 61 second to 123 days.       
-•	99.95% trip ends in a day.
+##### Trip Duration:
+•	Data contains trip durations ranging from 61 second to 123 days.      <br> 
+•	99.95% trip ends in a day.<br>
 •	0.05% of trips are between 2 to 123 days.
 
-	%	Value
-Trips ending in a day	99.95	3816155
-Trips for more than a day	0.05	1849
-Total=	100	3818004
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1de7ba51-a1fb-4404-8b76-72d47e341a7e)
 
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/83c035b4-bb47-4863-810e-2aae4b910fc1)
 
 
 Further we analyzed data for trip durations which end within a day – for both the user types.
- Total no. of casual riders within an hour trip	%	Value
-Total no. of casual riders for the rest of the day	83.60	735052
-Total no. of casual riders for a day trip	16.40	144237
-
-Total=	100	879289
- Total no. of annual members within an hour trip	%	Value
-Total no. of annual members for the rest of the day	99.60	2925122
-Total no. of annual members for a day trip	.04	11744
-
-Total=	100	2936866
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/8070a00d-9ea4-4150-9759-c9e4a624798e)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/9cbda0d9-cb80-49ac-903e-bfc71acb466d)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/745f9fb1-88c3-49cd-9e4d-ca7f36e4cddd)
 
-
-o	99.60% of the total numbers of annual members travelling in a day, are using bike service only for less than an hour and only 0.04% are using services for more than an hour.
-
-o	83.60% of total numbers of casual riders travelling in a day, are using bike service only for less than an hour and 16.40% are using services for more than an hour.
-
-o	Trip duration, which is not more than an hour, a ratio of casual riders to annual members is approx. 1 : 3.979 however it changes as trip duration goes beyond an hour. Then, casual riders are having more share than annual members. for example- for trip duration, which is more than an hour but less than two hours, ratio changes to 21.928 : 1
-
-
+- 99.60% of the total numbers of annual members travelling in a day, are using bike service only for less than an hour and only 0.04% are using services for more than an hour. <br>
+- 83.60% of total numbers of casual riders travelling in a day, are using bike service only for less than an hour and 16.40% are using services for more than an hour.<br>
+- Trip duration, which is not more than an hour, a ratio of casual riders to annual members is approx. 1 : 3.979 however it changes as trip duration goes beyond an hour. Then, casual riders are having more share than annual members. for example- for trip duration, which is more than an hour but less than two hours, ratio changes to 21.928 : 1 <br>
 
 More analysis was done to check data distribution from a day to months.
- Duration	Casual riders %	Annual members%	Casual riders	Annual members	All Users(Casual+Members)	All Users(Casual+Members)(%)
-within a day	23.04	76.96	879289	2936866	3816155	99.95
-< 15 days	71.56	28.44	1170	465	1635	0.04
->=15 days	84.78	15.22	78	14	92	0.00
->=1 month	85.06	14.94	74	13	87	0.00
->=2 month	75.86	24.14	22	7	29	0.00
->= 3 months	60.00	40.00	3	2	5	0.00
->=4 months	100.00	0.00	1	0	1	0.00
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1e1026f2-9b96-4cd7-869a-63df5d145c90)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1d235df1-21b2-4559-8b4f-d68c98516c9a)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/6cf74775-6e63-4128-b2bf-2c2337caac20)
 
-o	Plots are depicting a downward trend for annual members as trip duration increases.
+- Plots are depicting a downward trend for annual members as trip duration increases.<br>
+- Plots are depicting an upward trend for casual members as trip duration increases.
 
-o	Plots are depicting an upward trend for casual members as trip duration increases.
-
-Weekday:
- 	Sun	Mon	Tue	Wed	Thu	Fri	Sat
-Annual members	256241	458780	497025	494277	486915	456966	287163
-Casual riders	170179	101489	88655	89745	101372	121141	208056
-
-
+##### Weekday:
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/21057ae0-e62d-41dd-91ad-031421510042)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d2357b74-df21-4b3d-8be3-0f92d7bbe69d)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d5107d69-8936-412f-ad3f-07e1a04aa095)
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/876cd51e-59c3-4e0e-b195-b92800cdba8a)
-o	Less annual members on Saturday and Sunday compared to Monday to Friday
 
-o	More casual riders on Saturday and Sunday compared to Monday to Friday
+- Less annual members on Saturday and Sunday compared to Monday to Friday <br>
+- More casual riders on Saturday and Sunday compared to Monday to Friday
 
+##### Conclusion/ Summary:
+After performing comparative analysis between annual members and casual riders, on historical data (year 2019) of Cyclistic company, using different attributes (age, gender, trip duration and days of week), it is found that trip duration and days of week are the distinguishing attributes between users. i.e. annual members and casual riders. <br>
+Below observations are made after study for: <br>
+<b>Days of week</b><br>
+- A smaller number of annual users use services on Saturday and Sunday compared to other days of the week.<br>
+- There are more casual riders on Saturday and Sunday compared to other days of the week.<br>
+<b>Trip duration</b><br>     
+- The percentage of users for both types are higher for short duration trips. As the duration of the trip increases, percentage goes low however if annual members and casual members are compared on the parameter of long duration trips then there are more casual riders than annual members.
 
-Conclusion/ Summary:
-After performing comparative analysis between annual members and casual riders, on historical data (year 2019) of Cyclistic company, using different attributes (age, gender, trip duration and days of week), it is found that trip duration and days of week are the distinguishing attributes between users. i.e. annual members and casual riders.
-Below observations are made after study for:
-        Days of week
--	A smaller number of annual users use services on Saturday and Sunday compared to other days of the week.
--	There are more casual riders on Saturday and Sunday compared to other days of the week.
-       Trip duration
--	The percentage of users for both types are higher for short duration trips. As the duration of the trip increases, percentage goes low however if annual members and casual members are compared on the parameter of long duration trips then there are more casual riders than annual members.
-
-Recommendations:
+##### Recommendations:
 Currently, Cyclistic offers single-ride passes, full-day passes, and annual memberships. This could be a limitation for users who have different requirements, like students attending weekend classes and need to travel only on weekends or people with clear requirement of needing services only for shorter duration than annual. Considering all these points and after gaining insights from data, below recommendations are made:
--	As the number of casual riders increases on Saturday and Sunday, a special weekend plan for the whole year can be offered to convert casual riders to subscribers.
 
--	A year’s data did not reveal any trip lasting for a year, so in case of less usage, discounted prize should be offered for membership renewal which can potentially encourage casual users to buy membership. 
+- As the number of casual riders increases on Saturday and Sunday, a special weekend plan for the whole year can be offered to convert casual riders to subscribers.
 
--	Monthly, quarterly, and bi-annual membership plans should be offered to provide flexibility to users.
+- A year’s data did not reveal any trip lasting for a year, so in case of less usage, discounted prize should be offered for membership renewal which can potentially encourage casual users to buy membership. 
+
+- Monthly, quarterly, and bi-annual membership plans should be offered to provide flexibility to users.
 
 ----------------------------------------------------------------------------------------------------------------------------
-Tools used for analysis: SQL (Google BigQuery) & Analysis
-Visualization: Microsoft Excel
+<b>Tools used for analysis:</b> SQL (Google BigQuery) & Analysis
+
+<b>Visualization:</b> Microsoft Excel
 
 <a href='https://docs.google.com/presentation/d/e/2PACX-1vT3N9cvcGDGbgJR5Rqj-4tpSH6CAPbQicG04VS6Ye_0nEAWVL3R_UQ6U2A6iwOwGuKdgO8ICB_dMhz9/pub?start=false&loop=false&delayms=3000'>Download Presentation for stakeholders.</a>
+
+
 <a href='https://docs.google.com/spreadsheets/d/1hby5QSqIwQYGuWiOMZdF2u1OJ-TbuKk2/edit?usp=sharing&ouid=116714514526983481166&rtpof=true&sd=true'>Download Analyzed data workbook</a>
 
 

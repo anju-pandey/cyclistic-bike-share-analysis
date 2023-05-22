@@ -61,9 +61,9 @@ We are going to **perform our analysis using the attributes below** to check how
 <b>Weekday:</b> is the day of week of journey differentiating the users?
 
 ##### Age:
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/39c973f9-04a7-44ff-939c-51ea976f3640)
+![image class="center"](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/39c973f9-04a7-44ff-939c-51ea976f3640)
 
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/adf6df7f-fedb-44e4-90bb-984632cf02ad)
+![image class="center"](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/adf6df7f-fedb-44e4-90bb-984632cf02ad)
 
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to age.
 ###### ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.

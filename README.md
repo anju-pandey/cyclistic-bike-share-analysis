@@ -66,64 +66,16 @@ Range	All Users(Casual+Members) (%)	Casual Riders(%)	Annual Members(%)
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to age.
 ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Gender:
 Gender	All Users(Casual+Members) (%)	Casual Riders(%)	Annual Members(%)
 Male	62.88	8.86	91.14
 Female	22.47	15.32	84.68
 ** Null	14.65	95.93	4.07
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/19ed5250-16ce-4f59-b186-e276fe14dbac)
 
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to gender.
 ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Trip Duration:
 •	Data contains trip durations ranging from 61 second to 123 days.       
@@ -135,15 +87,7 @@ Trips ending in a day	99.95	3816155
 Trips for more than a day	0.05	1849
 Total=	100	3818004
 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/83c035b4-bb47-4863-810e-2aae4b910fc1)
 
 
 Further we analyzed data for trip durations which end within a day – for both the user types.
@@ -162,21 +106,7 @@ Total=	100	2936866
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/745f9fb1-88c3-49cd-9e4d-ca7f36e4cddd)
 
 
 o	99.60% of the total numbers of annual members travelling in a day, are using bike service only for less than an hour and only 0.04% are using services for more than an hour.

@@ -68,9 +68,9 @@ The above chart does not show any trend or pattern which indicates preference to
 ###### ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.
 
 ##### Gender:
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/dbf0f2b9-07de-472b-a517-5cfce5e94b4a)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/876c03ae787c6e88626b9671d8b6d661eda476c7/Images/4_gender_table.png)
 
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/19ed5250-16ce-4f59-b186-e276fe14dbac)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/876c03ae787c6e88626b9671d8b6d661eda476c7/Images/5_gender_chart.png)
 
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to gender.
 ###### there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.

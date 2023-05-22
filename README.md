@@ -142,44 +142,12 @@ Annual members	256241	458780	497025	494277	486915	456966	287163
 Casual riders	170179	101489	88655	89745	101372	121141	208056
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d2357b74-df21-4b3d-8be3-0f92d7bbe69d)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/d5107d69-8936-412f-ad3f-07e1a04aa095)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/876cd51e-59c3-4e0e-b195-b92800cdba8a)
 o	Less annual members on Saturday and Sunday compared to Monday to Friday
 
 o	More casual riders on Saturday and Sunday compared to Monday to Friday
-
-
-
-
-
-
-
-
-
-
 
 
 Conclusion/ Summary:
@@ -203,7 +171,7 @@ Currently, Cyclistic offers single-ride passes, full-day passes, and annual memb
 Tools used for analysis: SQL (Google BigQuery) & Analysis
 Visualization: Microsoft Excel
 
-Download Presentation for stakeholders.
-Download Analyzed data workbook
+<a href='https://docs.google.com/presentation/d/e/2PACX-1vT3N9cvcGDGbgJR5Rqj-4tpSH6CAPbQicG04VS6Ye_0nEAWVL3R_UQ6U2A6iwOwGuKdgO8ICB_dMhz9/pub?start=false&loop=false&delayms=3000'>Download Presentation for stakeholders.</a>
+<a href='https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/main/cyclistic_analysis_result.xlsx'>Download Analyzed data workbook</a>
 
 

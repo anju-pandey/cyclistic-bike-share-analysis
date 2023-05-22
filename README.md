@@ -39,23 +39,15 @@ usertype column contains two unique values: Customer and Subscriber. Subscriber 
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/4cc3c01f-37eb-4e5b-a134-23ae92051b32)
 
 
+We are going to **perform our analysis using the attributes below** to check how annual members are different than casual riders.
 
-
-
-
-We are going to perform our analysis using the attributes below to check how annual members are different than casual riders.
 Age: Is there dominant age group who either prefers to be member or casual rider?
+
 Gender: is there specific gender who is opting for annual membership than being casual rider or vice versa?
+
 Trip Duration: is trip duration the deciding factor for either being member or casual rider?
+
 Weekday: is the day of week of journey differentiating the users?
-
-
-
-
-
-
-
-
 
 
  
@@ -68,31 +60,8 @@ Range	All Users(Casual+Members) (%)	Casual Riders(%)	Annual Members(%)
 81-100	0.01	4.12	95.88
 >100	0.02	4.73	95.27
 **Null	14.11	98.82	1.18
-Age:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/adf6df7f-fedb-44e4-90bb-984632cf02ad)
 
 The above chart does not show any trend or pattern which indicates preference towards membership or being casual rider due to age.
 ** there was no clarification available about missing/null values, hence it is not being considered while plotting the graph.

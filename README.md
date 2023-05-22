@@ -47,7 +47,7 @@ Actions taken for inconsistency/ambiguity:<br>
 usertype column contains <b>two unique values: Customer and Subscriber.</b> Subscriber is our annual member and Customer is a casual rider.
 
 
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/4cc3c01f-37eb-4e5b-a134-23ae92051b32)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/3250d98938f0d88fe2e5eb1f2fe748188a4b28e4/Images/1_c_v_s.png)
 
 
 We are going to **perform our analysis using the attributes below** to check how annual members are different than casual riders.

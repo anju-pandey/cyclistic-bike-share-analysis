@@ -104,10 +104,8 @@ More analysis was done to check data distribution from a day to months.
 - Plots are depicting an upward trend for casual members as trip duration increases.
 
 ##### Weekday:
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/15_weekday_table.png)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/16_weekday_chart.png)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/17_weekday_chart.png)
-![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/blob/05ef830222187399c34af7914ffcaf30fae7f0a4/Images/18_weekday_chart.png)
+
+
 
 - Less annual members on Saturday and Sunday compared to Monday to Friday <br>
 - More casual riders on Saturday and Sunday compared to Monday to Friday

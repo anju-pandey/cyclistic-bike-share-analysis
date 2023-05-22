@@ -114,11 +114,11 @@ More analysis was done to check data distribution from a day to months.
 ##### Conclusion/ Summary:
 After performing comparative analysis between annual members and casual riders, on historical data (year 2019) of Cyclistic company, using different attributes (age, gender, trip duration and days of week), it is found that trip duration and days of week are the distinguishing attributes between users. i.e. annual members and casual riders. <br>
 Below observations are made after study for: <br>
-<b>Days of week</b><br>
+##### Days of week
 - A smaller number of annual users use services on Saturday and Sunday compared to other days of the week.<br>
 - There are more casual riders on Saturday and Sunday compared to other days of the week.<br>
 
-<b>Trip duration</b><br>     
+##### Trip duration
 - The percentage of users for both types are higher for short duration trips. As the duration of the trip increases, percentage goes low however if annual members and casual members are compared on the parameter of long duration trips then there are more casual riders than annual members.
 
 ##### Recommendations:

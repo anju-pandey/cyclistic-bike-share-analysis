@@ -129,22 +129,13 @@ within a day	23.04	76.96	879289	2936866	3816155	99.95
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/1d235df1-21b2-4559-8b4f-d68c98516c9a)
+![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/6cf74775-6e63-4128-b2bf-2c2337caac20)
 
 o	Plots are depicting a downward trend for annual members as trip duration increases.
 
 o	Plots are depicting an upward trend for casual members as trip duration increases.
+
 Weekday:
  	Sun	Mon	Tue	Wed	Thu	Fri	Sat
 Annual members	256241	458780	497025	494277	486915	456966	287163

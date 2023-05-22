@@ -117,6 +117,7 @@ Below observations are made after study for: <br>
 <b>Days of week</b><br>
 - A smaller number of annual users use services on Saturday and Sunday compared to other days of the week.<br>
 - There are more casual riders on Saturday and Sunday compared to other days of the week.<br>
+
 <b>Trip duration</b><br>     
 - The percentage of users for both types are higher for short duration trips. As the duration of the trip increases, percentage goes low however if annual members and casual members are compared on the parameter of long duration trips then there are more casual riders than annual members.
 

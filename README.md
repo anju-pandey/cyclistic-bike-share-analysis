@@ -112,7 +112,7 @@ More analysis was done to check data distribution from a day to months.
 - Less annual members on Saturday and Sunday compared to Monday to Friday <br>
 - More casual riders on Saturday and Sunday compared to Monday to Friday
 
-##### Conclusion/ Summary:
+#### Conclusion/ Summary:
 After performing comparative analysis between annual members and casual riders, on historical data (year 2019) of Cyclistic company, using different attributes (age, gender, trip duration and days of week), it is found that trip duration and days of week are the distinguishing attributes between users. i.e. annual members and casual riders. <br>
 Below observations are made after study for: <br>
 ##### Days of week
@@ -122,7 +122,7 @@ Below observations are made after study for: <br>
 ##### Trip duration
 - The percentage of users for both types are higher for short duration trips. As the duration of the trip increases, percentage goes low however if annual members and casual members are compared on the parameter of long duration trips then there are more casual riders than annual members.
 
-##### Recommendations:
+#### Recommendations:
 Currently, Cyclistic offers single-ride passes, full-day passes, and annual memberships. This could be a limitation for users who have different requirements, like students attending weekend classes and need to travel only on weekends or people with clear requirement of needing services only for shorter duration than annual. Considering all these points and after gaining insights from data, below recommendations are made:
 
 - As the number of casual riders increases on Saturday and Sunday, a special weekend plan for the whole year can be offered to convert casual riders to subscribers.

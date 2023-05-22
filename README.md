@@ -1,39 +1,50 @@
 # cyclistic-bike-share-analysis
 ###### Analysis of how annual members and casual riders use Cyclistic bikes differently
 
-**Introduction & Objective:** <br>
-This case study was performed as capstone project for the “Google Data Analytics Professional Certificate” course. 
-Cyclistic, a bike-share company in Chicago is a fictional company. This analysis is done to know how do annual members and casual riders use Cyclistic bikes differently?
+#### Introduction & Objective:
+This case study was performed as capstone project for the <b>“Google Data Analytics Professional Certificate”</b> course. <br>
+
+**Cyclistic**, a bike-share company in Chicago is a fictional company. This analysis is done to know how do annual members and casual riders use Cyclistic bikes differently?
+
 The company has 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. They offer many flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
+
+
  They want to Design marketing strategies aimed at converting casual riders into annual members. To do that, they need to better understand how annual members and casual riders differ.
+ 
+ 
  **Our objective is to analyze the Cyclistic historical bike trip data to identify trends and usage behavior of annual members and casual riders.**
 
-**About Data:**
+#### About Data:
 We are going to use the company’s historical data i.e. year 2019 to analyze and identify trends, if exists.
+
+
 The data has been made available by Motivate International Inc. under this license.) This is public data.
+
 Data is stored as comma separated files. This <a href='https://divvy-tripdata.s3.amazonaws.com/index.html'>link</a> can be used to download the files. Files used for this study are:
- Divvy_Trips_2019_Q1.zip
- Divvy_Trips_2019_Q2.zip
- Divvy_Trips_2019_Q3.zip 
- Divvy_Trips_2019_Q4.zip 
 
-**Data preparation and cleaning:**
-As data is stored in four files and contain large data, files were imported to Google Bigquery and merged all data to one table. After merging, the available number of records is 3818004.
-Following observations were made about data:
--	Trip_id is unique for each record.
--	Birthyear and gender contain null values.
--	End time is smaller than start time for some records.
--	Different station names are being used for one station code.
--	
-Actions taken for inconsistency/ambiguity:
--	Unique station name is provided for unique station id.
--	Start_time is updated with end_time and end_time is updated with start_time, wherever it was inconsistent. 
--  	null values are not treated for birthyear and gender as no impact was observed due to its presence.
+ - Divvy_Trips_2019_Q1.zip <br>
+ - Divvy_Trips_2019_Q2.zip<br>
+ - Divvy_Trips_2019_Q3.zip <br>
+ - Divvy_Trips_2019_Q4.zip 
+
+#### Data preparation and cleaning:
+As data is stored in four files and contain large data, files were <b>imported to Google Bigquery</b> and merged all data to one table. After merging, the available number of records is 3818004.
+
+
+Following observations were made about data:<br>
+-	Trip_id is unique for each record.<br>
+-	Birthyear and gender contain null values.<br>
+-	End time is smaller than start time for some records.<br>
+-	Different station names are being used for one station code.<br>
+
+Actions taken for inconsistency/ambiguity:<br>
+-	Unique station name is provided for unique station id.<br>
+-	Start_time is updated with end_time and end_time is updated with start_time, wherever it was inconsistent. <br>
+-  	null values are not treated for birthyear and gender as no impact was observed due to its presence.<br>
 -	trip duration was calculated by subtracting start time from end time.
--	
-**Analyzing data:**
-usertype column contains two unique values: Customer and Subscriber. Subscriber is our annual member and Customer is a casual rider.
-
+	
+#### Analyzing data:
+usertype column contains <b>two unique values: Customer and Subscriber.</b> Subscriber is our annual member and Customer is a casual rider.
 
 
 ![image](https://github.com/anju-pandey/cyclistic-bike-share-analysis/assets/124940549/4cc3c01f-37eb-4e5b-a134-23ae92051b32)
@@ -41,13 +52,13 @@ usertype column contains two unique values: Customer and Subscriber. Subscriber 
 
 We are going to **perform our analysis using the attributes below** to check how annual members are different than casual riders.
 
-Age: Is there dominant age group who either prefers to be member or casual rider?
+<b>Age:</b> Is there dominant age group who either prefers to be member or casual rider?
 
-Gender: is there specific gender who is opting for annual membership than being casual rider or vice versa?
+<b>Gender:</b> is there specific gender who is opting for annual membership than being casual rider or vice versa?
 
-Trip Duration: is trip duration the deciding factor for either being member or casual rider?
+<b>Trip Duration:</b> is trip duration the deciding factor for either being member or casual rider?
 
-Weekday: is the day of week of journey differentiating the users?
+<b>Weekday:</b> is the day of week of journey differentiating the users?
 
 
  
